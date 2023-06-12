@@ -1,0 +1,3 @@
+[submodule "ner-spacy"]
+	path = ner-spacy
+	url = https://github.com/tejal04/ner-spacy
