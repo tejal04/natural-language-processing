@@ -1,3 +1,6 @@
 [submodule "ner-spacy"]
 	path = ner-spacy
 	url = https://github.com/tejal04/ner-spacy
+[submodule "Naive-Bayes-Spam-Classifcation"]
+	path = Naive-Bayes-Spam-Classifcation
+	url = https://github.com/tejal04/Naive-Bayes-Spam-Classifcation
